@@ -8,7 +8,7 @@
   background-color: #253141;
   width: 300px;
   height: 100vh;
-  padding: 0 20px;
+  /* padding: 0 20px; */
 }
 
 /* side-bar-header */
@@ -17,6 +17,7 @@
   display: flex;
   justify-content:space-between;
   align-items: center;
+  padding: 0 20px;
 }
 
 .header-name a {
